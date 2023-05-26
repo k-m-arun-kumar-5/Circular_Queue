@@ -1,6 +1,6 @@
 Description :
 =============
-I,  K.M. Arun Kumar alias Arunkumar Murugeswaran, just shared my works, which I worked as learning path and practiced some C programming such as circular queue using array with variable queue data linked using SLL in queuue node. Queue node is also accessed by using front node and rear node. 
+I,  K.M. Arun Kumar alias Arunkumar Murugeswaran, just shared my works, which I worked as learning path and practiced some C programming such as circular queue using array with variable queue data linked using SLL in queue node. Queue node is also accessed by using front node and rear node. 
 
 Purpose :
 =========
